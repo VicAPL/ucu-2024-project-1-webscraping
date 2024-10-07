@@ -5,7 +5,7 @@ Web Scraping - Proyecto para la asignatura Programación para Análisis de Datos
 #### **Modalidad de presentación**
 
 - Debes hacer un fork de este repositorio a tu cuenta de GitHub.
-- Luego en tu repositorio, debes editar el archivo `propiedades.ipynb` para resolver el proyecto.
+- Luego en tu repositorio, debes editar el archivo `project.ipynb` para resolver el proyecto.
 - Finalmente, presentar en WebAsignatura el enlace de tu repositorio.
 
 ### **Fepcha de presentación**
@@ -82,7 +82,7 @@ Tu objetivo es realizar un **scraping** de los datos de las propiedades en venta
 
 6. **Formato de entrega**:
    
-   - Entrega el código Python que realiza el scraping y la extracción de datos en el archivo `propiedades.ipynb` de Jupiter Netbook.
+   - Entrega el código Python que realiza el scraping y la extracción de datos en el archivo `project.ipynb` de Jupiter Netbook.
    - Incluye el archivo `propiedades.json` con los resultados del scraping.
 
 #### **Pistas para la implementación**:
