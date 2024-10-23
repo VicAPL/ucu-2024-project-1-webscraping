@@ -1,0 +1,445 @@
+{
+    "ciudades": [
+        {
+            "nombre": "Montevideo",
+            "propiedades": [
+                {
+                    "precio": "U$S250.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/apto-loft-1-dormitorio-en-venta-puerto-de-buceo/191594492"
+                },
+                {
+                    "precio": "U$S400.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/venta-casa-prado-3-dorm-gran-terreno-actualizada/191249216"
+                },
+                {
+                    "precio": "U$S85.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "Mono1Baño30m²",
+                    "link": "https://www.infocasas.com.uy/venta-apartamento-monoambiente-con-amenities-en-buceo-montevideo/190967537"
+                },
+                {
+                    "precio": "U$S130.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/venta-apartamento-1-dormitorio-en-malvn-sur/190969162"
+                },
+                {
+                    "precio": "U$S178.500",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/venta-3-dormitorios-con-garaje-y-renta-en-cordn/191037293"
+                },
+                {
+                    "precio": "U$S131.900",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/venta-apartamento-1-dormitorio-en-cordn-montevideo/191343999"
+                },
+                {
+                    "precio": "U$S168.300",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/venta-apartamento-1-dormitorio-en-cordn-sur-montevideo/191444701"
+                },
+                {
+                    "precio": "U$S698.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "4",
+                    "link": "https://www.infocasas.com.uy/venta-de-casa-en-punta-gorda-sobre-av-san-marino-4-o-5-dormitorios/191479611"
+                },
+                {
+                    "precio": "U$S280.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/venta-casa-2-dormitorios-con-garaje-a-estrenar-en-pocitos/191482444"
+                },
+                {
+                    "precio": "U$S520.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "6",
+                    "link": "https://www.infocasas.com.uy/estilo-francs-en-pleno-centro-de-montevideo/190973269"
+                },
+                {
+                    "precio": "DesdeU$S82.650",
+                    "tamaño": "N/A",
+                    "habitaciones": "Mono1Baño27m²",
+                    "link": "https://www.infocasas.com.uy/proyectos/arcadia"
+                },
+                {
+                    "precio": "DesdeU$S113.905",
+                    "tamaño": "N/A",
+                    "habitaciones": "Mono1Baño31m²",
+                    "link": "https://www.infocasas.com.uy/proyectos/rubicon"
+                },
+                {
+                    "precio": "DesdeU$S111.150",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/proyectos/pavilion"
+                },
+                {
+                    "precio": "U$S143.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/venta-apartamento-1-dormitorio-parque-rodo/191083782"
+                },
+                {
+                    "precio": "U$S320.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "5",
+                    "link": "https://www.infocasas.com.uy/majestuosa-casa-en-prado-norte/191274209"
+                },
+                {
+                    "precio": "U$S1.490.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/edificio-venta-en-aguada-atencin-inversores/191581768"
+                },
+                {
+                    "precio": "U$S260.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/se-vende-casa-tres-dormitorios-y-cochera-en-carrasco/191289831"
+                },
+                {
+                    "precio": "U$S99.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "Mono1Baño55m²",
+                    "link": "https://www.infocasas.com.uy/vendo-casa-1-dormitorio-muy-lindo-sin-gastos-comunes-excelente-zona/191290817"
+                },
+                {
+                    "precio": "U$S680.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "5",
+                    "link": "https://www.infocasas.com.uy/obra-maestra-de-5-dormitorios-en-el-centro-de-montevideo/191411092"
+                },
+                {
+                    "precio": "DesdeU$S101.979",
+                    "tamaño": "N/A",
+                    "habitaciones": "Mono1Baño35m²",
+                    "link": "https://www.infocasas.com.uy/proyectos/pres-gonzalo-ramirez"
+                },
+                {
+                    "precio": "U$S255.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/venta-apto-2-dormitorios-en-lamos-de-carrasco-gje/191557781"
+                },
+                {
+                    "precio": "U$S205.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/venta-apartamento-prado-3-dormitorios-2-baos/191570982"
+                },
+                {
+                    "precio": "DesdeU$S126.866",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/proyectos/altos-de-cordon"
+                },
+                {
+                    "precio": "DesdeU$S110.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "Mono1Baño38m²",
+                    "link": "https://www.infocasas.com.uy/proyectos/edil-hugo-prato-2220"
+                },
+                {
+                    "precio": "U$S338.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/venta-de-casa-3-dormitorios-en-bella-vista/191561688"
+                },
+                {
+                    "precio": "DesdeU$S119.480",
+                    "tamaño": "N/A",
+                    "habitaciones": "Mono1Baño27m²",
+                    "link": "https://www.infocasas.com.uy/proyectos/fit-26"
+                },
+                {
+                    "precio": "DesdeU$S260.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/proyectos/casa-capri"
+                },
+                {
+                    "precio": "U$S125.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/apartamento-3-dormitorios-en-cordon-94-metros-construidos/191213784"
+                },
+                {
+                    "precio": "U$S219.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/apartamento-en-venta-3-dormitorios-tres-cruces-muy-luminoso-garage-terrazas/191562226"
+                }
+            ]
+        },
+        {
+            "nombre": "Salto",
+            "propiedades": [
+                {
+                    "precio": "U$S81.750",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/venta-casa-dos-dormitorios-zona-cerro/191150380"
+                },
+                {
+                    "precio": "U$S130.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/apartamento-de-2-dormitorios-gran-living-comedor/190347950"
+                },
+                {
+                    "precio": "U$S110.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/apartamento-dos-dormitorios/189824643"
+                },
+                {
+                    "precio": "U$S100.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/excelente-oportunidad-bajo-de-precio-venta-casa-centro-salto-familia-o-empresa/190694805"
+                },
+                {
+                    "precio": "U$S2.503.200",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/campo-en-venta-en-salto-5960-has-ref-4477/191551051"
+                },
+                {
+                    "precio": "DesdeU$S78.750",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/proyectos/altos-de-fatima/15016892"
+                },
+                {
+                    "precio": "U$S249.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "4",
+                    "link": "https://www.infocasas.com.uy/casa-3-dormitorios/190626928"
+                },
+                {
+                    "precio": "U$S197.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "5",
+                    "link": "https://www.infocasas.com.uy/venta-de-casa-3-propiedades-en-salto-uruguay/190382564"
+                },
+                {
+                    "precio": "U$S388.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/campo-en-venta-en-salto-970-has-ref-4347/191550998"
+                },
+                {
+                    "precio": "U$S498.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "6",
+                    "link": "https://www.infocasas.com.uy/excelente-y-nica-oportunidad-para-inversores/191070504"
+                },
+                {
+                    "precio": "U$S115.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/apto-1-dormitorio-en-termas-del-dayman-salto/191317847"
+                },
+                {
+                    "precio": "DesdeU$S136.500",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/proyectos/altos-de-fatima/15016892"
+                },
+                {
+                    "precio": "DesdeU$S98.700",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/proyectos/altos-de-fatima/15016892"
+                },
+                {
+                    "precio": "U$S55.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/venta-de-casa-3-dormitorios-en-ceibal-salto/190940792"
+                },
+                {
+                    "precio": "U$S160.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/casa-a-la-venta-2-dormitorios-en-salto/191547506"
+                },
+                {
+                    "precio": "U$S210.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/arenitas-blancas-hermosa-casa-de-3-dormitorios-a-la-venta/190943014"
+                },
+                {
+                    "precio": "U$S2.700",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/campo-en-venta-en-salto-ref-8771/190324098"
+                },
+                {
+                    "precio": "U$S80.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/venta-de-casa-3-dormitorios-en-ciudad-de-salto/186321839"
+                },
+                {
+                    "precio": "U$S130.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/casa-con-patio-y-garage-a-cuadras-del-centro/187486629"
+                },
+                {
+                    "precio": "U$S150.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/casa-con-2-dormitorios-y-casa-de-huspedes/190079353"
+                },
+                {
+                    "precio": "U$S179.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/venta-apartamento-exclusivo-costanera-sur/190790447"
+                }
+            ]
+        },
+        {
+            "nombre": "Maldonado",
+            "propiedades": [
+                {
+                    "precio": "DesdeU$S185.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/proyectos/altos-de-san-rafael?&legacy=0"
+                },
+                {
+                    "precio": "U$S220.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/casa-a-la-venta-a-100-mts-del-mar-en-san-francisco/191064409"
+                },
+                {
+                    "precio": "U$S600.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "4",
+                    "link": "https://www.infocasas.com.uy/casa-sobre-la-playa-con-bajada-privada/191379210"
+                },
+                {
+                    "precio": "DesdeU$S335.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/proyectos/casas-en-piriapolis"
+                },
+                {
+                    "precio": "U$S530.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "4",
+                    "link": "https://www.infocasas.com.uy/venta-casa-4-dormitorios-en-pinares-punta-del-este/191074264"
+                },
+                {
+                    "precio": "U$S145.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/casa-en-venta-en-balneario-buenos-aires-con-renta/191079898"
+                },
+                {
+                    "precio": "U$S450.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/apartamento-3-dormitorios-en-venta-y-alquiler-frente-al-mar/191079934"
+                },
+                {
+                    "precio": "DesdeU$S135.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/proyectos/intipa"
+                },
+                {
+                    "precio": "U$S550.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/venta-o-alquiler-casa-3-dormitorios-3-baos-barrio-privado/190220536"
+                },
+                {
+                    "precio": "U$S75.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1410m²",
+                    "link": "https://www.infocasas.com.uy/excelente-lote/190295533"
+                },
+                {
+                    "precio": "U$S180.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/casa-a-la-venta-en-san-francisco/191069989"
+                },
+                {
+                    "precio": "DesdeU$S235.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/proyectos/casas-en-piriapolis-ok?&legacy=0"
+                },
+                {
+                    "precio": "U$S210.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/casa-en-la-barra-a-3-cuadras-del-mar/191108657"
+                },
+                {
+                    "precio": "U$S370.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/villa-de-la-barra-102-impecable-apartamento-en-venta-en-la-barra/191477484"
+                },
+                {
+                    "precio": "U$S1.970.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "",
+                    "link": "https://www.infocasas.com.uy/terreno-en-prestigiosa-avenida/190999930"
+                },
+                {
+                    "precio": "U$S3.115.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "6",
+                    "link": "https://www.infocasas.com.uy/chacra-bella-vista/191000770"
+                },
+                {
+                    "precio": "U$S4.300.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "4",
+                    "link": "https://www.infocasas.com.uy/casa-la-barra/191002587"
+                },
+                {
+                    "precio": "U$S970.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "3",
+                    "link": "https://www.infocasas.com.uy/departamento-en-esturin-terrazas/191002613"
+                },
+                {
+                    "precio": "DesdeU$S129.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "2",
+                    "link": "https://www.infocasas.com.uy/proyectos/see-mansa/15946"
+                },
+                {
+                    "precio": "DesdeU$S152.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "1",
+                    "link": "https://www.infocasas.com.uy/proyectos/jardim-paulista?&legacy=0"
+                },
+                {
+                    "precio": "U$S850.000",
+                    "tamaño": "N/A",
+                    "habitaciones": "4",
+                    "link": "https://www.infocasas.com.uy/residencia-en-venta-ubicada-en-la-mansa-punta-del-este/191366538"
+                }
+            ]
+        }
+    ]
+}
